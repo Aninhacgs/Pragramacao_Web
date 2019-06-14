@@ -1,0 +1,55 @@
+body{
+	background-image: url(../imagens/code1.png);
+	background-repeat:no-repeat;
+	margin:0px;
+	
+}
+
+h2{
+	text-align: center-left;
+	color: #DEB887;
+	padding-left: 30px;
+}
+
+h1{
+	text-align:center-right;
+	color:white;
+	padding-left:790px;
+}
+
+p{
+	text-align: center-left;
+	font-size: 22px;
+	color: white;
+	padding-left:420px;
+	padding-right:28.5px;
+	padding-top: 10px;
+}
+
+
+
+
+.menu{
+	float:left;
+}
+
+nav ul {
+    list-style-type: none;
+    padding-left:2em;
+
+}
+
+nav ul a {
+    text-decoration: none;
+	color:#DEB887;
+	font-weight: bold;
+	padding-left:5em;
+}
+
+footer{
+	color:#DEB887;
+	font-weight: bold;
+	padding-left:3em;
+}
+
+
